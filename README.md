@@ -3,7 +3,7 @@
 Hi 👋, I'm William Crane  
 Passionate about technology with professional experience in **Selenium**, **JavaScript**, and **Test Automation**. I am currently expanding my skills and creating a comprehensive portfolio.
 
-[LinkedIn](https://www.linkedin.com/in/williamrosscrane) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/williamrosscrane) 
 
 ## 🔭 Currently Working On
 - Expanding my **Selenium** test automation framework portfolio.
@@ -58,7 +58,6 @@ I love combining my passion for technology and fitness to create innovative solu
 
 ### Connect With Me:
 - **LinkedIn**: [William Crane](https://www.linkedin.com/in/williamrosscrane)
-- **GitHub**: [William's GitHub](https://github.com/yourusername)
 
 ---
 
