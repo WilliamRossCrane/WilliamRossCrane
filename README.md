@@ -3,11 +3,10 @@
 Hi 👋, I'm William Crane  
 Passionate about technology with professional experience in **Selenium**, **JavaScript**, and **Test Automation**. I am currently expanding my skills and creating a comprehensive portfolio.
 
-[LinkedIn](https://www.linkedin.com/in/williamrosscrane) 
-
 ## 🔭 Currently Working On
 - Expanding my **Selenium** test automation framework portfolio.
-- Personal coding projects such as a **fitness tracker app** and a **Manual Testing Portfolio**.
+- Developing my projects utilising **TypeScript** for industry relevence. 
+- Personal coding projects such as a **fitness tracker app** and a **Pokedex**.
 
 ## 🌱 Learning
 - Advanced **Selenium** for test automation.
@@ -18,8 +17,8 @@ Passionate about technology with professional experience in **Selenium**, **Java
 - **Selenium Testing**, **API Testing**, and **Test Automation Frameworks**.
 - Data-driven projects and fitness-related apps.
 
-## 📫 How to Reach Me
-- Email: [wcran7@gmail.com](mailto:wcran7@gmail.com)
+## 📫 Connect With Me:
+- **LinkedIn**: [William Crane](https://www.linkedin.com/in/williamrosscrane)
 
 ---
 
@@ -54,16 +53,3 @@ Passionate about technology with professional experience in **Selenium**, **Java
 
 ## Fun Fact
 I love combining my passion for technology and fitness to create innovative solutions, including building apps that help people track their health and wellness goals.
-
-## 💡 Future Projects
-- **Manual Portfolio**: A portfolio of manually tested coding projects showcasing a variety of tools and applications.
-- **Fitness Tracker**: A mobile-friendly app for tracking workouts, progress, and health metrics.
-
----
-
-### Connect With Me:
-- **LinkedIn**: [William Crane](https://www.linkedin.com/in/williamrosscrane)
-
----
-
-⚡ Fun Fact: Outside of coding, I enjoy exploring ways to integrate tech into fitness and health to create practical and innovative solutions!
