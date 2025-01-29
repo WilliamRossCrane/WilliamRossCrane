@@ -3,8 +3,7 @@
 <h3>I am a</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=F3CC95&width=435&lines=Test+Automation+Engineer;Passionate+Technologist+;Software+Developer;JavaScript+Enthusiast;Postgraduate+Student)](https://git.io/typing-svg)
-
-Passionate about technology with professional experience in **JavaScript**, **Selenium** and **Test Automation**. I am currently expanding my skills and creating a comprehensive portfolio.
+Passionate about technology with professional experience in **JavaScript**, **Selenium** and **Test Automation/ Software Development**. I am currently expanding my skills and creating a comprehensive portfolio.
 
 ## 🔭 Currently Working On
 - Expanding my **Selenium** test automation framework portfolio.
@@ -12,10 +11,13 @@ Passionate about technology with professional experience in **JavaScript**, **Se
 - Personal coding projects such as a **fitness tracker app** and a **movie database app**.
 
 ## 🌱 Learning
+- Expanding expertise in **TypeScript** and modern JavaScript frameworks like **React.js** and **Next.js**.
+- Deepening knowledge of **API Testing** and Test Automation using **Selenium**.
+- Trying to master the art of **not breaking things** so often (but no promises 🤣).
 
 ## 👯 Looking to Collaborate On
-- **Selenium Testing**, **API Testing**, and **Test Automation Frameworks**.
-- Data-driven projects and fitness-related apps.
+- Data-driven projects, fitness apps, or anything **fun**, **innovative ideas** that combine tech and **creativity**.
+- Projects where we can bring something **unique** to life whether it's an app, a game, or anything in between!
 
 ## 📫 Connect With Me:
 - **LinkedIn**: [William Crane](https://www.linkedin.com/in/williamrosscrane)
@@ -45,6 +47,18 @@ Passionate about technology with professional experience in **JavaScript**, **Se
 **Bloomtools** | Aug 2021 - Feb 2023 (1 year, 7 months)  
 - Led a cross-functional team to deliver high-quality web-based solutions using **Agile** methodologies.
 - Managed the product development lifecycle, ensuring timely delivery and client satisfaction.
+
+## 📄 Education
+
+### **Master of Information Systems and Management** (Starting 2025)  
+**Griffith University**  
+- Focuses on **strategic planning**, **communication**, and **technology management**.
+- Aims to bridge the gap between **business** and **technology**, preparing for leadership roles in driving innovative solutions.
+
+### **Bachelor of Information Technology, Software Development**  
+**Griffith University** | Jul 2019 - Nov 2023  
+- Covered key areas in **software development**, including **web development**, **data structures**, **algorithms**, and **system design**.
+- Focused on gaining practical experience with **programming languages**, **software testing**, and **project management**.
 
 ---
 
