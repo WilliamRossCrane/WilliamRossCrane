@@ -3,7 +3,8 @@
 <h3>I am a</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=F3CC95&width=435&lines=Test+Automation+Engineer;Passionate+Technologist+;Software+Developer;JavaScript+Enthusiast;Postgraduate+Student)](https://git.io/typing-svg)
-Passionate about technology with professional experience in **JavaScript**, **Selenium** and **Test Automation/ Software Development**. I am currently expanding my skills and creating a comprehensive portfolio.
+
+<p>Passionate about technology with professional experience in <strong>JavaScript</strong>, <strong>Selenium</strong> and <strong>Test Automation/Software Development</strong>. I am currently expanding my skills and creating a comprehensive portfolio.</p>
 
 ## 🔭 Currently Working On
 - Expanding my **Selenium** test automation framework portfolio.
