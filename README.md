@@ -21,7 +21,7 @@
 - Projects where we can bring something **unique** to life whether it's an app, a game, or anything in between!
 
 ## 📫 Connect With Me:
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamrosscrane)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamrosscrane)
 
 ---
 
@@ -49,7 +49,7 @@
 - Led a cross-functional team to deliver high-quality web-based solutions using **Agile** methodologies.
 - Managed the product development lifecycle, ensuring timely delivery and client satisfaction.
 
-## 📄 Education
+## 👨🏻‍🎓 Education
 
 ### **Master of Information Systems and Management** (Starting 2025)  
 **Griffith University**  
