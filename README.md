@@ -1,17 +1,17 @@
-# William Crane's Portfolio
+# Hi there, I'm William 👋
 
-Hi 👋, I'm William Crane  
-Passionate about technology with professional experience in **Selenium**, **JavaScript**, and **Test Automation**. I am currently expanding my skills and creating a comprehensive portfolio.
+<h3>I am a</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=F3CC95&width=435&lines=Test+Automation+Engineer;Passionate+Technologist+;Software+Developer;JavaScript+Enthusiast;Postgraduate+Student)](https://git.io/typing-svg)
+
+Passionate about technology with professional experience in **JavaScript**, **Selenium** and **Test Automation**. I am currently expanding my skills and creating a comprehensive portfolio.
 
 ## 🔭 Currently Working On
 - Expanding my **Selenium** test automation framework portfolio.
 - Developing my projects utilising **TypeScript** for industry relevence. 
-- Personal coding projects such as a **fitness tracker app** and a **Pokedex**.
+- Personal coding projects such as a **fitness tracker app** and a **movie database app**.
 
 ## 🌱 Learning
-- Advanced **Selenium** for test automation.
-- **Jest** for testing in JavaScript projects.
-- Exploring **Cypress** for end-to-end testing.
 
 ## 👯 Looking to Collaborate On
 - **Selenium Testing**, **API Testing**, and **Test Automation Frameworks**.
@@ -26,14 +26,11 @@ Passionate about technology with professional experience in **Selenium**, **Java
 - **Languages**: 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 - **Frameworks**: 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ## 📄 Experience
