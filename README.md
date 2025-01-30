@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=F3CC95&width=435&lines=Test+Automation+Engineer;Passionate+Technologist+;Software+Developer;JavaScript+Enthusiast;Postgraduate+Student)](https://git.io/typing-svg)
 
-<p>Passionate about technology with professional experience in <strong>JavaScript</strong>, <strong>Selenium</strong> and <strong>Test Automation/Software Development</strong>. I am currently expanding my skills and creating a comprehensive portfolio.</p>
+<p>I'm passionate about technology with experience in <strong>JavaScript</strong>, <strong>Selenium</strong>, and <strong>Test Automation/Software Development</strong>. Right now, I'm expanding my skills and building a portfolio that showcases what I love to create!</p>
 
 ## 🔭 Currently Working On
 - Expanding my **Selenium** test automation framework portfolio.
@@ -14,14 +14,7 @@
 ## 🌱 Learning
 - Expanding expertise in **TypeScript** and modern JavaScript frameworks like **React.js** and **Next.js**.
 - Deepening knowledge of **API Testing** and Test Automation using **Selenium**.
-- Trying to master the art of **not breaking things** so often (but no promises 🤣).
-
-## 👯 Looking to Collaborate On
-- Data-driven projects, fitness apps, or anything **fun**, **innovative ideas** that combine tech and **creativity**.
-- Projects where we can bring something **unique** to life whether it's an app, a game, or anything in between!
-
-## 📫 Connect With Me:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamrosscrane)
+- Trying to master the art of **not breaking things** so often. (but no promises 🤣)
 
 ## 💻 Tech Stack:
 - **Languages**: 
@@ -33,6 +26,14 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+## 👯 Looking to Collaborate On
+- Data-driven projects, fitness apps, or anything **fun**, **innovative ideas** that combine tech and **creativity**.
+- Projects where we can bring something **unique** to life whether it's an app, a game, or anything in between!
+
+## 📫 Connect With Me:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamrosscrane)
+[![Email](https://img.shields.io/badge/email-wcran7%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wcran7@gmail.com)
 
 ---
 
@@ -53,13 +54,14 @@
 
 ### **Master of Information Systems and Management** (Starting 2025)  
 **Griffith University**  
-- Focuses on **strategic planning**, **communication**, and **technology management**.
-- Aims to bridge the gap between **business** and **technology**, preparing for leadership roles in driving innovative solutions.
+- Exploring how **business** and **technology** intersect to drive innovation.
+- Gaining the skills needed for leadership roles, with a focus on **strategic planning** and **technology management**.
 
 ### **Bachelor of Information Technology, Software Development**  
 **Griffith University** | Jul 2019 - Nov 2023  
-- Covered key areas in **software development**, including **web development**, **data structures**, **algorithms**, and **system design**.
-- Focused on gaining practical experience with **programming languages**, **software testing**, and **project management**.
+- Focused on **software development**, **web development**, **data structures**, **algorithms**, and **system design**.
+- Gained hands-on experience with **programming languages**, **software testing**, and **project management**.
+
 
 ---
 
