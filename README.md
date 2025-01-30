@@ -6,7 +6,7 @@
 
 <p>I'm passionate about technology with experience in <strong>JavaScript</strong>, <strong>Selenium</strong>, and <strong>Test Automation/Software Development</strong>. Right now, I'm expanding my skills and building a portfolio that showcases what I love to create!</p>
 
-## 🔭 Currently Working On
+## 🔨 Currently Working On
 - Expanding my **Selenium** test automation framework portfolio.
 - Developing my projects utilising **TypeScript** for industry relevence. 
 - Personal coding projects such as a **fitness tracker app** and a **movie database app**.
@@ -21,18 +21,20 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 - **Frameworks**: 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 👯 Looking to Collaborate On
+## 🤝 Looking to Collaborate On
 - Data-driven projects, fitness apps, or anything **fun**, **innovative ideas** that combine tech and **creativity**.
 - Projects where we can bring something **unique** to life whether it's an app, a game, or anything in between!
 
 ## 📫 Connect With Me:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamrosscrane)
+[![LinkedIn](https://img.shields.io/badge/linkedin-williamrosscrane-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamrosscrane)
 [![Email](https://img.shields.io/badge/email-wcran7%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wcran7@gmail.com)
 
 ---
