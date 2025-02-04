@@ -72,4 +72,5 @@
 
 ## Fun Fact
 While I love building JavaScript applications, I also love One Piece, it's my favourite anime!
+
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlveXhqNnFnbjYzdjJ1d3QxcTZ2cHh3cGpsOXI0NWVwcXVoMW9qNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YRThiAEEYVNtC5acLO/giphy.gif" width="300">
