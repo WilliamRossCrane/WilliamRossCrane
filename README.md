@@ -75,4 +75,4 @@ While I love building JavaScript applications, I also love One Piece, it's my fa
 
 I would be inspired to work on a One Piece project, so contact me if you're interested!
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlveXhqNnFnbjYzdjJ1d3QxcTZ2cHh3cGpsOXI0NWVwcXVoMW9qNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YRThiAEEYVNtC5acLO/giphy.gif" width="300">
+![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJiNm52bDVsMWM4anJ3NDh4em8wejAzbWMya3dxa3lwN3FoZWt4ayZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9cw/6KKKVerzrhjRrClNKt/giphy.gif)
