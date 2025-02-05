@@ -75,6 +75,6 @@ While I love building JavaScript applications, I also love One Piece, it's my fa
 
 I would be inspired to work on a One Piece project, so contact me if you're interested!
 
-<p align="center">
+<p align="left">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFpbWtrNzVhMzE1dXRyOW52bTlzYTRpZGs5dHIwdGpvNXlvbDE1YyZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9cw/Tgvn82bqJT36lkVqDZ/giphy.gif" alt="GIF" width="250px">
 </p>
