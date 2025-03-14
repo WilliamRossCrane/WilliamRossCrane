@@ -42,35 +42,7 @@
 
 ---
 
-## 📄 Experience
-
-### Graduate Automation Test Engineer  
-**Australian Retirement Trust** | Feb 2023 - Aug 2023 (7 months)  
-- Developed and maintained automated test scripts using **SpecFlow** and **C#**.
-- Performed manual testing and automated regression, integration, and unit tests on correspondence systems.
-- Collaborated with Agile teams to improve the efficiency and accuracy of software testing through **BDD** methodology.
-
-### Project Manager  
-**Bloomtools** | Aug 2021 - Feb 2023 (1 year, 7 months)  
-- Led a cross-functional team to deliver high-quality web-based solutions using **Agile** methodologies.
-- Managed the product development lifecycle, ensuring timely delivery and client satisfaction.
-
-## 👨🏻‍🎓 Education
-
-### **Master of Information Systems and Management** (Starting 2025)  
-**Griffith University**  
-- Exploring how **business** and **technology** intersect to drive innovation.
-- Gaining the skills needed for leadership roles, with a focus on **strategic planning** and **technology management**.
-
-### **Bachelor of Information Technology, Software Development**  
-**Griffith University** | Jul 2019 - Nov 2023  
-- Focused on **software development**, **web development**, **data structures**, **algorithms**, and **system design**.
-- Gained hands-on experience with **programming languages**, **software testing**, and **project management**.
-
-
----
-
-## Fun Fact
+## ⭐ Fun Fact:
 While I love building JavaScript applications, I also love One Piece, it's my favourite anime! 
 
 I would be inspired to work on a One Piece project, so contact me if you're interested!
