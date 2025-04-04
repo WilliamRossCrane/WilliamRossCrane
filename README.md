@@ -50,18 +50,3 @@ I would be inspired to work on a One Piece project, so contact me if you're inte
 <p align="left">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFpbWtrNzVhMzE1dXRyOW52bTlzYTRpZGs5dHIwdGpvNXlvbDE1YyZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9cw/Tgvn82bqJT36lkVqDZ/giphy.gif" alt="GIF" width="250px">
 </p>
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 10">
-  <rect width="1200" height="10" fill="url(#rainbow)"/>
-  <defs>
-    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y1="0%">
-      <stop offset="0%" stop-color="#FF0000"/>
-      <stop offset="16.6%" stop-color="#FF9900"/>
-      <stop offset="33.3%" stop-color="#FFFF00"/>
-      <stop offset="50%" stop-color="#00FF00"/>
-      <stop offset="66.6%" stop-color="#0099FF"/>
-      <stop offset="83.3%" stop-color="#6633FF"/>
-      <stop offset="100%" stop-color="#FF00FF"/>
-    </linearGradient>
-  </defs>
-</svg>
