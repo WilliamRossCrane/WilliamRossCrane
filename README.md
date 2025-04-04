@@ -4,12 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=F3CC95&width=435&lines=Test+Automation+Engineer;Passionate+Technologist+;Software+Developer;JavaScript+Enthusiast;Postgraduate+Student)](https://git.io/typing-svg)
 
-<p>I'm passionate about technology with experience in <strong>JavaScript</strong>, <strong>Selenium</strong>, and <strong>Test Automation/Software Development</strong>. Right now, I'm expanding my skills and building a portfolio that showcases what I love to create!</p>
+<p>I'm passionate about technology with experience in <strong>JavaScript</strong>, <strong>Selenium</strong>, and <strong>Test Automation/Software Development</strong>. Right now, I'm expanding my skills and building my portfolio projects that showcase what I love to build!</p>
 
 ## 🔨 Currently Working On
 - Expanding my **Selenium** test automation framework portfolio.
 - Developing my projects utilising **TypeScript** for industry relevence. 
-- Personal coding projects such as a **fitness tracker app** and a **movie database app**.
+- Personal coding projects such as a **Uber Application** and **Netflix Clone Application**.
 
 ## 🌱 Learning
 - Expanding expertise in **TypeScript** and modern JavaScript frameworks like **React.js** and **Next.js**.
