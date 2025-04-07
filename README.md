@@ -2,11 +2,7 @@
 
 <h3>I am a</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=FF0000&width=435&lines=Test+Automation+Engineer)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=FF7F00&width=435&lines=Passionate+Technologist+)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=FFFF00&width=435&lines=Software+Developer)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=00FF00&width=435&lines=JavaScript+Enthusiast)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=0000FF&width=435&lines=Postgraduate+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=A9A9A9&width=435&lines=Test+Automation+Engineer;Passionate+Technologist+;Software+Developer;JavaScript+Enthusiast;Postgraduate+Student)](https://git.io/typing-svg)
 
 <p>I'm passionate about technology with experience in <strong>JavaScript</strong>, <strong>Selenium</strong>, and <strong>Test Automation/Software Development</strong>. Right now, I'm expanding my skills and building my portfolio projects that showcase what I love to create!</p>
 
