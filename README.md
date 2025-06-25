@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=A9A9A9&width=435&lines=Forever+Learner;Passionate+Technologist+;JavaScript+Enthusiast;Postgraduate+Student)](https://git.io/typing-svg)
 
-<p>I'm passionate about technology and currently learning <strong>JavaScript</strong>, frameworks like <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Object-Oriented Programming</strong>, and <strong>Power BI</strong>. I'm actively working on portfolio projects that showcase my growth and enthusiasm for building creative solutions!</p>
+<p> I'm passionate about technology and currently learning <strong>JavaScript</strong>, frameworks like <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Python</strong>, <strong>SQL</strong>,  and improving my database fundamentals. I'm actively working on portfolio projects that showcase my growth and enthusiasm for building creative solutions!</p>
 
 ## 🔨 Currently Working On
 - **Javscript** projects for my understanding and portfolio.
