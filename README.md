@@ -9,8 +9,8 @@
 ## 🔨 Currently Working On
 - **Javscript** projects for my understanding and portfolio.
 - Developing my projects utilising **TypeScript** and **Object-Oriented Programming** for industry relevence. 
-- Dashboards for Data Analysis using **Power BI** and **C# or Python**.
-- Mastering the art of **not breaking things** so often. (but no promises 🤣)
+- Dashboards for Data Analysis using **Power BI** and **SQL & Python**.
+- Mastering the art of **breaking things** and **stumbling my way through fixing it** 🤣. 
 
 ## 💻 Tech Stack:
 **Languages**: 
