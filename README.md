@@ -28,7 +28,7 @@
 
 ## 🤝 Looking to Collaborate On
 - Anything **fun** and **innovative** that combines technology, **creativity**, and my relevant tech stack.  
-- Projects where we can bring something **unique** to life — whether it's an app, a game, or anything in between!
+- Projects where we can bring something **unique** to life whether it's an app, a game, or anything in between!
 
 ## 📫 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-williamrosscrane-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamrosscrane)
