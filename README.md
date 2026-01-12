@@ -2,7 +2,7 @@
 
 <h3>I am a</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=A9A9A9&width=520&lines=Forever+Learner;Web+Application+Builder;JavaScript+%26+TypeScript+Enthusiast;Postgraduate+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=A9A9A9&width=520&lines=Forever+Learner;Web+Application+Developer;JavaScript+%26+Enthusiast;Postgraduate+Student)](https://git.io/typing-svg)
 
 <p>I'm passionate about technology and currently deepening my skills in <strong>JavaScript</strong> and <strong>TypeScript</strong>, working with modern frameworks like <strong>React</strong> and <strong>Next.js</strong> to build clean, maintainable web applications. I'm actively developing portfolio projects that demonstrate strong fundamentals, thoughtful structure, and a practical approach to solving real-world problems.</p>
 
