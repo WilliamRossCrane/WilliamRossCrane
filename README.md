@@ -2,7 +2,7 @@
 
 <h3>I am a</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=A9A9A9&width=520&lines=Forever+Learner;Web+Application+Developer;JavaScript+%26+Enthusiast;Postgraduate+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=A9A9A9&width=520&lines=Forever+Learner;Web+Application+Developer;JavaScript+Enthusiast;Postgraduate+Student)](https://git.io/typing-svg)
 
 <p>I'm passionate about technology and currently deepening my skills in <strong>JavaScript</strong> and <strong>TypeScript</strong>, working with modern frameworks like <strong>React</strong> and <strong>Next.js</strong> to build clean, maintainable web applications. I'm actively developing portfolio projects that demonstrate strong fundamentals, thoughtful structure, and a practical approach to solving real-world problems.</p>
 
@@ -10,7 +10,7 @@
 - Building **JavaScript** & **TypeScript** projects to strengthen core programming fundamentals and expand my professional portfolio.
 - Applying **Object-Oriented Programming (OOP)** and modern development practices aligned with real-world industry standards.
 - Designing and testing **web applications** with **clean architecture**, **maintainable code**, and **usability**.
-- Actively improving my development skills by **breaking things**, **debugging**, and **iterating**. because that’s where the real learning happens 😄. 
+- Improving my development skills by **breaking things**, **debugging**, and **iterating**. because that’s where the real learning happens 😄. 
 
 ## 💻 Tech Stack:
 **Languages**: 
