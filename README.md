@@ -10,7 +10,7 @@
 - Building **JavaScript** & **TypeScript** projects to strengthen core programming fundamentals and expand my professional portfolio.
 - Applying **Object-Oriented Programming (OOP)** and modern development practices aligned with real-world industry standards.
 - Designing and testing **web applications** with **clean architecture**, **maintainable code**, and **usability**.
-- Improving my development skills by **breaking things**, **debugging**, and **iterating**. because that’s where the real learning happens 😄. 
+- Improving my development skills by **breaking things**, **debugging**, and **iterating**. Where the real learning happens! 😄
 
 ## 💻 Tech Stack:
 **Languages**: 
