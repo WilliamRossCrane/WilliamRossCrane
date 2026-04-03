@@ -15,9 +15,9 @@ I'm passionate about technology and currently deepening my skills in <strong>Jav
 
 ## 🔨 Currently Working On
 - Building **JavaScript** & **TypeScript** projects to strengthen core programming fundamentals and expand my professional portfolio.
-- Applying **Object-Oriented Programming (OOP)** and modern development practices aligned with real-world industry standards.
+- Applying **modern development practices** aligned with **industry standards**.
 - Designing and testing **web applications** with **clean architecture**, **maintainable code**, and **usability**.
-- Improving my development skills by **breaking things**, **debugging**, and **iterating**, it's where the real learning happens 😄
+- Improving my development skills by **breaking things**, **debugging**, and **iterating**, it's where learning happens for me 😄
 
 ## 💻 Tech Stack
 
@@ -38,14 +38,10 @@ I'm passionate about technology and currently deepening my skills in <strong>Jav
 - Anything **fun** and **innovative** that combines technology and creativity  
 - Projects where we can build something **unique**, including apps, tools, or experiments
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-williamrosscrane-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamrosscrane)
-[![Email](https://img.shields.io/badge/email-wcran7%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wcran7@gmail.com)
-
 ---
 
 ## ⭐ Fun Fact
-While I enjoy building JavaScript applications, I also love **One Piece**, it’s my favourite anime!
+I love **One Piece**, it’s my favourite anime!
 
 <p align="left">
   <img 
